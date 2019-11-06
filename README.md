@@ -1,6 +1,6 @@
 # Bitmasking
-##Using **BITWISE OPERATOR**
-###Advantages of using Bitwise :
+## Using **BITWISE OPERATOR**
+### Advantages of using Bitwise :
 * It is very fast
 * Everything is stored in bit.
 
