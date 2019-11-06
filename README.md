@@ -5,8 +5,8 @@
 * Everything is stored in bit.
 
 **BITWISE OPERATORS**
-* & Bitwise AND
-* | Bitwise OR
-* ^ Bitwise XOR
-* >> RIGHT SHIFT
-* << LEFT SHIFT
+* **&** Bitwise AND
+* **|** Bitwise OR
+* **^** Bitwise XOR
+* **>>** RIGHT SHIFT
+* **<<** LEFT SHIFT
